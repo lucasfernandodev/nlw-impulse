@@ -15,5 +15,5 @@ O usuário, ao identificar um problema no site, ter alguma ideia ou simplesmente
 - TailWindCSS
 - ReactJS
 
-<h2>👾 Tecnologias</h2>
-Veja como ficou esse projeto clicando aqui.
+<h2>👾 Visualizar projeto</h2>
+Veja como ficou esse projeto <a target="_blank" href="https://feedback-widget-nlw.netlify.app/">clicando aqui</a>.
