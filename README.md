@@ -5,6 +5,8 @@
 <h2>🚀 Projeto</h2>
 Um Component Widget para feedback que pode ser utilizado em qualquer site.
 
+O usuário, ao identificar um problema no site, ter alguma ideia ou simplesmente quizer deixar um feedback, pode, através do widget, enviar uma pequena mensagem junto com uma captura de tela do site.
+
 <h2>⚡ Tecnologias</h2>
 
 - Vite
