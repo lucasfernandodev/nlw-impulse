@@ -1,5 +1,10 @@
+import { Homepage } from "./Page/Homepage";
 import Widget from "./components/Widget";
 
 export function App(){
-  return <Widget />
+  return (
+    <Homepage>
+      <Widget />
+    </Homepage>
+  )
 }
